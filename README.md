@@ -10,3 +10,5 @@ Instale o Visual Studio Code
 <p>  Acesse ao Github</p><br>
 
 [github](https://github.com)
+
+<h3> Autor: Renan Dias </h3>
